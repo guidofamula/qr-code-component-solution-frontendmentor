@@ -8,10 +8,10 @@
 
 <div align="center">
   <h3>
-    <a href="#" color="white">
+    <a href="https://www.frontendmentor.io/solutions/qr-code-component-q6EKvkLntv" color="white">
       Solution URL
     </a>
-  <span> ~||~ </span>    <a href="#">
+  <span> ~||~ </span>    <a href="https://guidofamula.github.io/qr-code-component-solution-frontendmentor/">
       Live URL
     </a>
   <span> ~||~ </span>    <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">
